@@ -1,0 +1,9 @@
+name: terraform-install
+version: 0.1.0
+description: terraform-install
+keywords:
+  - terraform
+properties:
+  version:
+    type: string
+    required: true
